@@ -1,0 +1,5 @@
+Healthy Bowl,Spinach,Broccoli,Zucchini,Carrot,60
+Special Bowl,Mango,Red Onion, Cucumber,Corn,Egg,70
+No Stress,Pasta,Spinach,Cucumber,Tomato,Carrot,Corn,Feta Cheese,Egg,65
+Fire Bowl,Spinach,Mango, Zucchini,Tomato,Feta Cheese,80
+Sunrise Bowl,Pasta,Mango,Red Onion,Carrot,Corn,90

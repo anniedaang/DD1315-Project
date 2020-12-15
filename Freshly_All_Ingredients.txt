@@ -1,0 +1,12 @@
+Potato, 9
+Oat Rice, 15
+Apple, 10
+Nuts, 5
+Avocado, 30
+Paprika, 5
+Tomato, 5
+Basil, 3
+Olives, 10
+Tofu, 45
+Shrimp, 50
+Egg, 10

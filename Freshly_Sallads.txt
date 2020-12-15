@@ -1,0 +1,4 @@
+Green Garden,Potato,Apple,Avocado,Basil,Olives,Tofu,Egg,85
+Iron Man,Oat Rice,Apple,Nuts,Avocado,Shrimp, Egg,70
+Energizer,Potato,Oat Rice,Nuts,Avocado,Paprika,Tomato,Basil,Olives, 95
+Freshly Special,Apple,Avocado,Paprika,Tomato,Basil,Tofu,Shrimp, 100

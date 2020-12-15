@@ -1,0 +1,12 @@
+Spinach, 25
+Broccoli, 35
+Pasta, 40
+Mango, 30
+Zucchini, 25
+Red Onion, 9
+Cucumber, 10
+Tomato, 12
+Carrot, 12
+Corn, 10
+Feta Cheese, 25
+Egg, 15
